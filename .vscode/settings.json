@@ -1,0 +1,11 @@
+{
+  "python.defaultInterpreterPath": "C:/Users/kikev/miniconda3/python.exe",
+  "python.pythonPath": "C:/Users/kikev/miniconda3/python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}",
+    "C:/Users/kikev/miniconda3/Lib/site-packages",
+    "C:/Users/kikev/miniconda3/Lib/site-packages/pygame"
+  ],
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.autoSearchPaths": true
+}
